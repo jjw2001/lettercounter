@@ -109,4 +109,3 @@ int min(int count[])
   }  
   return min_pos;
 }
->>>>>>> origin/feature
